@@ -1,0 +1,638 @@
+[21-Mar-2025 16:14:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[21-Mar-2025 16:14:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[21-Mar-2025 16:14:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[21-Mar-2025 16:14:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[25-Mar-2025 19:27:28 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Mar-2025 18:34:11 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[26-Mar-2025 18:34:11 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[26-Mar-2025 18:34:11 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[26-Mar-2025 18:34:11 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[26-Mar-2025 18:37:58 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[26-Mar-2025 18:37:58 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[26-Mar-2025 18:37:58 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[26-Mar-2025 18:37:58 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[26-Mar-2025 18:39:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[26-Mar-2025 18:39:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[26-Mar-2025 18:39:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[26-Mar-2025 18:39:24 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[28-Mar-2025 16:09:59 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[28-Mar-2025 16:10:17 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[28-Mar-2025 16:10:23 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[28-Mar-2025 16:10:32 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[28-Mar-2025 16:10:39 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[28-Mar-2025 16:10:48 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[28-Mar-2025 21:38:01 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[28-Mar-2025 21:38:01 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[28-Mar-2025 21:38:01 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[28-Mar-2025 21:38:01 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[31-Mar-2025 16:35:53 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[31-Mar-2025 16:35:53 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[31-Mar-2025 16:35:53 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[31-Mar-2025 16:35:53 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[31-Mar-2025 16:38:18 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[31-Mar-2025 16:38:27 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[31-Mar-2025 16:40:01 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[01-Apr-2025 17:50:15 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[01-Apr-2025 17:50:15 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[01-Apr-2025 17:50:15 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[01-Apr-2025 17:50:15 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[02-Apr-2025 09:58:23 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:02:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:02:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:02:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:02:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:02:57 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:03:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:03:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:03:47 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:03:47 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:04:02 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:06:40 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:06:57 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:12:01 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:13:10 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:13:10 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:14:04 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:16:30 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:16:30 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:16:50 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:16:50 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:19:40 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:19:40 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:20:30 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:29:07 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:30:58 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:41:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:41:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:41:55 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:43:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:43:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:43:51 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 10:44:29 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:44:29 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:44:51 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Apr-2025 10:44:51 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Apr-2025 10:46:14 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 11:22:23 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 11:28:52 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Apr-2025 13:38:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[02-Apr-2025 13:38:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[02-Apr-2025 13:38:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[02-Apr-2025 13:38:27 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[02-Apr-2025 17:05:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[02-Apr-2025 17:05:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[02-Apr-2025 17:05:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[02-Apr-2025 17:05:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[07-Apr-2025 09:56:20 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[07-Apr-2025 09:57:18 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[07-Apr-2025 09:58:19 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[07-Apr-2025 09:59:39 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[07-Apr-2025 10:00:13 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[07-Apr-2025 10:00:13 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[07-Apr-2025 10:01:16 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[07-Apr-2025 10:02:22 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[07-Apr-2025 10:02:22 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[07-Apr-2025 10:02:36 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[07-Apr-2025 10:03:30 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[07-Apr-2025 10:03:30 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[07-Apr-2025 10:05:50 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Apr-2025 10:32:03 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Apr-2025 10:35:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[22-Apr-2025 10:35:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[22-Apr-2025 10:38:15 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[22-Apr-2025 10:38:15 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[22-Apr-2025 10:38:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[22-Apr-2025 10:38:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[22-Apr-2025 10:39:49 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[22-Apr-2025 10:39:49 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[23-Apr-2025 10:19:57 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[23-Apr-2025 10:19:57 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[23-Apr-2025 15:33:33 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[23-Apr-2025 15:33:33 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Apr-2025 14:12:19 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Apr-2025 14:12:19 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[15-May-2025 16:40:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[15-May-2025 16:40:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[15-May-2025 16:40:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[15-May-2025 16:40:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[16-May-2025 13:45:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[16-May-2025 13:45:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[16-May-2025 13:45:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[16-May-2025 13:45:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[16-May-2025 13:49:44 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[16-May-2025 13:50:28 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[16-May-2025 13:53:19 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[16-May-2025 13:53:19 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[16-May-2025 13:59:03 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[29-May-2025 09:51:27 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[29-May-2025 09:53:12 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[29-May-2025 09:53:12 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[01-Jun-2025 23:39:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[01-Jun-2025 23:39:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[01-Jun-2025 23:39:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[01-Jun-2025 23:39:14 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[06-Jun-2025 14:26:03 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[06-Jun-2025 14:26:03 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[06-Jun-2025 14:26:03 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[06-Jun-2025 14:26:03 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[10-Jun-2025 09:23:44 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[10-Jun-2025 09:23:44 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[10-Jun-2025 09:23:44 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[10-Jun-2025 09:23:44 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[12-Jun-2025 10:05:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[12-Jun-2025 10:05:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[12-Jun-2025 10:05:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[12-Jun-2025 10:05:42 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[15-Jun-2025 12:14:28 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[15-Jun-2025 12:14:28 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[15-Jun-2025 12:14:28 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[15-Jun-2025 12:14:28 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[17-Jun-2025 02:13:46 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[17-Jun-2025 02:13:46 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[17-Jun-2025 02:13:46 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[17-Jun-2025 02:13:46 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[17-Jun-2025 02:15:09 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[17-Jun-2025 02:15:09 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[17-Jun-2025 02:15:09 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[17-Jun-2025 02:15:09 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[18-Jun-2025 13:46:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[18-Jun-2025 13:46:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[18-Jun-2025 13:46:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[18-Jun-2025 13:46:06 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[18-Jun-2025 14:11:29 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[18-Jun-2025 14:11:29 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[18-Jun-2025 14:11:29 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[18-Jun-2025 14:11:29 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[18-Jun-2025 15:26:01 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[18-Jun-2025 15:26:01 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[18-Jun-2025 15:26:01 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[18-Jun-2025 15:26:01 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[27-Jun-2025 10:56:32 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[27-Jun-2025 10:56:32 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[27-Jun-2025 10:56:32 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[27-Jun-2025 10:56:32 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[27-Jun-2025 14:09:39 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[27-Jun-2025 14:09:39 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[27-Jun-2025 14:09:39 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[27-Jun-2025 14:09:39 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[01-Jul-2025 16:38:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[01-Jul-2025 16:38:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[01-Jul-2025 16:38:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[01-Jul-2025 16:38:06 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[02-Jul-2025 14:53:50 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[02-Jul-2025 14:53:50 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[02-Jul-2025 14:53:50 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[02-Jul-2025 14:53:50 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[02-Jul-2025 19:07:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[02-Jul-2025 19:07:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[02-Jul-2025 19:07:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[02-Jul-2025 19:07:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[06-Jul-2025 22:00:23 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[06-Jul-2025 22:00:23 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[06-Jul-2025 22:00:23 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[06-Jul-2025 22:00:23 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[07-Jul-2025 14:48:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[07-Jul-2025 14:48:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[07-Jul-2025 14:48:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[07-Jul-2025 14:48:52 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[08-Jul-2025 05:35:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[08-Jul-2025 05:35:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[08-Jul-2025 05:35:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[08-Jul-2025 05:35:31 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[10-Jul-2025 13:52:04 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[10-Jul-2025 13:52:04 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[10-Jul-2025 13:52:04 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[10-Jul-2025 13:52:04 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[13-Jul-2025 13:40:48 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[13-Jul-2025 13:40:48 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[13-Jul-2025 13:40:48 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[13-Jul-2025 13:40:48 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[14-Jul-2025 17:53:02 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jul-2025 17:53:18 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jul-2025 17:53:58 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jul-2025 17:54:07 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jul-2025 07:21:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[15-Jul-2025 07:21:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[15-Jul-2025 07:21:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[15-Jul-2025 07:21:31 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[21-Jul-2025 05:41:39 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[21-Jul-2025 05:41:39 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[21-Jul-2025 05:41:39 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[21-Jul-2025 05:41:39 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[22-Jul-2025 11:26:41 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Jul-2025 11:26:55 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[23-Jul-2025 13:35:45 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[23-Jul-2025 13:35:45 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[23-Jul-2025 13:35:45 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[23-Jul-2025 13:35:45 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[30-Jul-2025 16:42:18 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[30-Jul-2025 16:42:18 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[30-Jul-2025 16:42:18 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[30-Jul-2025 16:42:18 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[02-Aug-2025 02:17:18 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[02-Aug-2025 02:17:18 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[02-Aug-2025 02:17:18 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[02-Aug-2025 02:17:18 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[04-Aug-2025 12:54:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[04-Aug-2025 12:54:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[04-Aug-2025 12:54:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[04-Aug-2025 12:54:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[05-Aug-2025 10:10:12 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:11:58 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:11:58 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:12:12 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:12:25 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:12:25 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:12:31 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:12:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:12:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:12:43 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:13:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:13:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:13:48 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:13:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:13:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:14:24 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:14:29 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:14:29 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:14:33 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:14:38 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:14:38 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:14:42 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:14:50 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:14:50 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:14:54 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:14:59 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:14:59 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:15:02 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:15:07 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:15:07 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[05-Aug-2025 10:15:20 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Aug-2025 10:15:23 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Aug-2025 10:15:23 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[09-Aug-2025 02:18:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[09-Aug-2025 02:18:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[09-Aug-2025 02:18:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[09-Aug-2025 02:18:56 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[10-Aug-2025 21:53:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[10-Aug-2025 21:53:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[10-Aug-2025 21:53:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[10-Aug-2025 21:53:20 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[20-Aug-2025 23:28:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[20-Aug-2025 23:28:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[20-Aug-2025 23:28:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[20-Aug-2025 23:28:24 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[23-Aug-2025 01:16:21 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[23-Aug-2025 01:16:21 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[23-Aug-2025 01:16:21 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[23-Aug-2025 01:16:21 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[23-Aug-2025 23:27:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[23-Aug-2025 23:27:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[23-Aug-2025 23:27:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[23-Aug-2025 23:27:26 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[01-Sep-2025 08:15:25 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[01-Sep-2025 08:15:25 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[01-Sep-2025 08:15:25 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[01-Sep-2025 08:15:25 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[01-Sep-2025 13:52:35 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[01-Sep-2025 13:53:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[01-Sep-2025 13:53:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[01-Sep-2025 13:54:01 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[01-Sep-2025 13:54:08 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[01-Sep-2025 13:54:08 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[01-Sep-2025 13:54:13 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[01-Sep-2025 13:54:19 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[01-Sep-2025 13:54:19 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[01-Sep-2025 13:54:27 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[01-Sep-2025 13:54:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[01-Sep-2025 13:54:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[09-Sep-2025 00:10:18 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[09-Sep-2025 00:10:18 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[09-Sep-2025 00:10:18 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[09-Sep-2025 00:10:18 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[16-Sep-2025 19:36:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[16-Sep-2025 19:36:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[16-Sep-2025 19:36:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[16-Sep-2025 19:36:42 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[17-Sep-2025 04:54:09 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[17-Sep-2025 04:54:09 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[17-Sep-2025 04:54:09 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[17-Sep-2025 04:54:09 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[22-Sep-2025 13:59:15 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Sep-2025 13:59:23 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Sep-2025 13:59:30 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Sep-2025 17:23:08 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Sep-2025 17:23:18 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[25-Sep-2025 02:43:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[25-Sep-2025 02:43:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[25-Sep-2025 02:43:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[25-Sep-2025 02:43:02 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[25-Sep-2025 04:42:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[25-Sep-2025 04:42:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[25-Sep-2025 04:42:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[25-Sep-2025 04:42:14 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[27-Sep-2025 11:03:12 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[27-Sep-2025 11:03:12 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[27-Sep-2025 11:03:12 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[27-Sep-2025 11:03:12 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[28-Sep-2025 13:01:13 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[28-Sep-2025 13:01:19 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[01-Oct-2025 16:22:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[01-Oct-2025 16:22:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[01-Oct-2025 16:22:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[01-Oct-2025 16:22:20 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[01-Oct-2025 16:24:43 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[01-Oct-2025 16:24:43 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[01-Oct-2025 16:24:43 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[01-Oct-2025 16:24:43 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[02-Oct-2025 17:17:41 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Oct-2025 17:18:01 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Oct-2025 17:18:08 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Oct-2025 17:18:08 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Oct-2025 17:18:19 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Oct-2025 17:18:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Oct-2025 17:18:31 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Oct-2025 17:18:35 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Oct-2025 17:18:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Oct-2025 17:18:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Oct-2025 17:18:45 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Oct-2025 17:18:50 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Oct-2025 17:18:50 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Oct-2025 17:18:54 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Oct-2025 17:18:58 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Oct-2025 17:18:58 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Oct-2025 17:19:02 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Oct-2025 17:19:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Oct-2025 17:19:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Oct-2025 17:19:09 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[02-Oct-2025 17:19:59 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[02-Oct-2025 17:19:59 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[02-Oct-2025 22:09:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[02-Oct-2025 22:09:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[02-Oct-2025 22:09:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[02-Oct-2025 22:09:42 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[05-Oct-2025 01:51:19 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[05-Oct-2025 01:51:19 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[05-Oct-2025 01:51:19 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[05-Oct-2025 01:51:19 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[06-Oct-2025 15:53:49 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[06-Oct-2025 15:53:49 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[06-Oct-2025 15:53:49 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[06-Oct-2025 15:53:49 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[06-Oct-2025 18:56:23 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[06-Oct-2025 18:56:23 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[06-Oct-2025 18:56:23 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[06-Oct-2025 18:56:23 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[07-Oct-2025 23:54:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[07-Oct-2025 23:54:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[07-Oct-2025 23:54:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[07-Oct-2025 23:54:27 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[11-Oct-2025 02:45:35 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[11-Oct-2025 02:45:35 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[11-Oct-2025 02:45:35 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[11-Oct-2025 02:45:35 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[17-Dec-2025 11:42:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[17-Dec-2025 11:42:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[17-Dec-2025 11:42:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[17-Dec-2025 11:42:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[04-Jan-2026 02:56:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[04-Jan-2026 02:56:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[04-Jan-2026 02:56:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[04-Jan-2026 02:56:56 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[14-Jan-2026 10:32:42 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:32:49 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:32:52 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:32:56 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:32:57 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:33:03 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:33:08 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:33:12 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:33:41 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:33:44 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:33:51 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:33:56 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:33:56 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:34:13 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:34:55 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 19
+[14-Jan-2026 10:34:55 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 22
+[14-Jan-2026 10:35:21 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:35:33 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:36:12 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[14-Jan-2026 10:49:55 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 19
+[14-Jan-2026 10:49:55 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 22
+[14-Jan-2026 11:15:09 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 63
+[14-Jan-2026 11:15:09 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 65
+[14-Jan-2026 11:15:59 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 63
+[14-Jan-2026 11:15:59 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 65
+[14-Jan-2026 11:17:53 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 63
+[14-Jan-2026 11:17:53 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 65
+[15-Jan-2026 15:34:20 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:34:27 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:34:32 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:36:41 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:36:55 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:37:26 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:42:15 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:42:30 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:42:51 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:44:20 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[15-Jan-2026 15:45:34 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[21-Jan-2026 15:27:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[21-Jan-2026 15:27:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[21-Jan-2026 15:27:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[21-Jan-2026 15:27:37 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[26-Jan-2026 17:18:10 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:22:51 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:23:47 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:23:47 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:25:53 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:26:01 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:26:01 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:26:10 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:29:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:29:14 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:29:21 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:29:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:29:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:29:34 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:29:34 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:29:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:29:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:29:54 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:29:57 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:29:57 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:30:01 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:30:05 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:30:05 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:30:11 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:30:43 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:30:51 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:30:51 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:31:48 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:31:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:31:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:31:56 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:32:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:32:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:32:07 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:32:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:32:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[26-Jan-2026 17:33:13 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[26-Jan-2026 17:34:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[26-Jan-2026 17:34:24 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[01-Feb-2026 20:04:47 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[01-Feb-2026 20:04:47 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[01-Feb-2026 20:04:47 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[01-Feb-2026 20:04:47 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[05-Feb-2026 08:35:06 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[05-Feb-2026 08:35:13 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[05-Feb-2026 08:35:13 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[06-Feb-2026 14:48:07 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 19
+[06-Feb-2026 14:48:07 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/usuarios.php on line 22
+[07-Feb-2026 20:40:15 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home/wwasse/ouvidoria.assego.com.br/login.php on line 16
+[07-Feb-2026 20:40:22 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home/wwasse/ouvidoria.assego.com.br/login.php on line 16
+[07-Feb-2026 20:48:22 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home/wwasse/ouvidoria.assego.com.br/login.php on line 16
+[07-Feb-2026 20:48:26 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home/wwasse/ouvidoria.assego.com.br/login.php on line 16
+[07-Feb-2026 20:49:16 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home/wwasse/ouvidoria.assego.com.br/login.php on line 16
+[07-Feb-2026 20:49:20 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home/wwasse/ouvidoria.assego.com.br/login.php on line 16
+[07-Feb-2026 21:03:35 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home/wwasse/ouvidoria.assego.com.br/login.php on line 16
+[07-Feb-2026 21:03:37 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in /home/wwasse/ouvidoria.assego.com.br/login.php on line 16
+[12-Feb-2026 07:43:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[12-Feb-2026 07:43:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[12-Feb-2026 07:43:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[12-Feb-2026 07:43:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[13-Feb-2026 10:01:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[13-Feb-2026 10:01:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[13-Feb-2026 10:01:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[13-Feb-2026 10:01:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[18-Feb-2026 15:31:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[18-Feb-2026 15:31:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[18-Feb-2026 15:31:06 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[18-Feb-2026 15:31:06 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[19-Feb-2026 13:19:43 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[19-Feb-2026 13:20:07 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[19-Feb-2026 13:20:17 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[19-Feb-2026 13:26:52 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[19-Feb-2026 13:26:59 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[19-Feb-2026 13:28:18 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[19-Feb-2026 13:28:34 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Feb-2026 15:26:49 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Feb-2026 15:27:31 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Feb-2026 15:27:52 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[22-Feb-2026 15:28:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[22-Feb-2026 15:28:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[23-Feb-2026 09:12:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[23-Feb-2026 09:12:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[23-Feb-2026 09:12:52 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[23-Feb-2026 09:12:52 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[24-Feb-2026 13:02:40 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[24-Feb-2026 13:02:48 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:02:48 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:03:04 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:03:04 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:03:14 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[24-Feb-2026 13:05:45 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:05:45 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:05:56 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[24-Feb-2026 13:08:35 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:08:35 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:11:21 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:11:21 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:11:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:11:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:12:17 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:12:17 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:12:44 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:12:44 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:13:08 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:13:08 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:13:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:13:27 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:13:51 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:13:51 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[24-Feb-2026 13:13:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[24-Feb-2026 13:13:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[01-Mar-2026 06:13:32 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[01-Mar-2026 06:13:32 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[01-Mar-2026 06:13:32 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[01-Mar-2026 06:13:32 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[02-Mar-2026 15:17:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[02-Mar-2026 15:17:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[02-Mar-2026 15:17:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[02-Mar-2026 15:17:26 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[03-Mar-2026 16:19:44 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[03-Mar-2026 16:20:20 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[03-Mar-2026 16:20:27 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[12-Mar-2026 10:09:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[12-Mar-2026 10:09:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[12-Mar-2026 10:09:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[12-Mar-2026 10:09:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 16
+[14-Mar-2026 12:22:55 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[14-Mar-2026 12:22:55 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[14-Mar-2026 12:22:55 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[14-Mar-2026 12:22:55 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[16-Mar-2026 20:45:51 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[16-Mar-2026 20:45:51 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[16-Mar-2026 20:45:51 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[16-Mar-2026 20:45:51 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[17-Mar-2026 10:55:26 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[17-Mar-2026 10:55:29 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[17-Mar-2026 10:55:34 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[17-Mar-2026 10:55:43 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[17-Mar-2026 10:56:42 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[17-Mar-2026 10:56:47 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[17-Mar-2026 10:57:05 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[17-Mar-2026 10:57:20 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[24-Mar-2026 15:28:33 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[24-Mar-2026 15:28:33 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[24-Mar-2026 15:28:33 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[24-Mar-2026 15:28:33 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[26-Mar-2026 07:07:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[26-Mar-2026 07:07:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[26-Mar-2026 07:07:56 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[26-Mar-2026 07:07:56 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[26-Mar-2026 12:41:45 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[26-Mar-2026 12:41:45 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[26-Mar-2026 12:41:45 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[26-Mar-2026 12:41:45 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[27-Mar-2026 23:03:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[27-Mar-2026 23:03:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[27-Mar-2026 23:03:02 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[27-Mar-2026 23:03:02 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[29-Mar-2026 15:26:36 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 7
+[29-Mar-2026 15:26:36 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 8
+[29-Mar-2026 15:26:36 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 9
+[29-Mar-2026 15:26:36 America/Sao_Paulo] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/processar_ouvidoria.php on line 97
+[30-Mar-2026 22:49:53 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:49:59 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:49:59 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:50:08 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:50:16 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:50:16 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:50:24 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:50:30 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:50:30 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:50:36 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:50:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:50:42 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:50:48 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:50:55 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:50:55 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:51:01 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:51:08 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:51:08 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:51:17 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:51:22 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:51:22 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:51:33 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:52:04 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:55:25 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:55:25 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:55:40 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:55:40 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:55:59 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:58:21 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:58:21 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
+[30-Mar-2026 22:58:36 America/Sao_Paulo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 414
+[30-Mar-2026 22:58:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 17
+[30-Mar-2026 22:58:41 America/Sao_Paulo] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/wwasse/ouvidoria.assego.com.br/visualizar_manifestacao.php on line 18
