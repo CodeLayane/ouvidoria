@@ -1,9 +1,9 @@
 <?php
 date_default_timezone_set('America/Sao_Paulo');
 $host = 'localhost';
-$db = 'wwasse_ouvidoria';
-$user = 'wwasse_ouvidoria';
-$pass = '{:Qc.:5D9<?}<1slK5{ZQL>_385}:fT~XrI1G_.-%3_m/#\CX4';
+$db = 'ouvidoria_assego';
+$user = 'layane';
+$pass = '92106115@Lore';
 $charset = 'utf8mb4';
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 $options = [

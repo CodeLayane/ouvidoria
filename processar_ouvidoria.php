@@ -8,104 +8,75 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $area_relacionada = filter_input(INPUT_POST, 'area_relacionada', FILTER_SANITIZE_STRING);
     $mensagem = filter_input(INPUT_POST, 'mensagem', FILTER_SANITIZE_STRING);
     $anonimo = isset($_POST['anonimo']) ? 1 : 0;
-    
-    $nome = null;
-    $email = null;
-    
+    $nome = null; $email = null;
     if (!$anonimo) {
         $nome = filter_input(INPUT_POST, 'nome', FILTER_SANITIZE_STRING);
         $email = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
     }
-    
-    $imagem_data = null;
-    $imagem_tipo = null;
-    
-   
+
+    // Captura IP real
+    if (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+        $ip = trim(explode(',', $_SERVER['HTTP_X_FORWARDED_FOR'])[0]);
+    } elseif (!empty($_SERVER['HTTP_CLIENT_IP'])) {
+        $ip = $_SERVER['HTTP_CLIENT_IP'];
+    } else {
+        $ip = $_SERVER['REMOTE_ADDR'];
+    }
+    $ip_remetente = filter_var($ip, FILTER_VALIDATE_IP) ? $ip : $_SERVER['REMOTE_ADDR'];
+
+    $imagem_data = null; $imagem_tipo = null;
     if (isset($_FILES['imagem']) && $_FILES['imagem']['error'] === UPLOAD_ERR_OK) {
-        $file_extension = pathinfo($_FILES['imagem']['name'], PATHINFO_EXTENSION);
-        $allowed_types = ['jpg', 'jpeg', 'png', 'gif'];
-        
-        if (in_array(strtolower($file_extension), $allowed_types)) {
-            if ($_FILES['imagem']['size'] <= 60 * 1024 * 1024) { 
-               
+        $ext = pathinfo($_FILES['imagem']['name'], PATHINFO_EXTENSION);
+        if (in_array(strtolower($ext), ['jpg','jpeg','png','gif'])) {
+            if ($_FILES['imagem']['size'] <= 60*1024*1024) {
                 $imagem_data = file_get_contents($_FILES['imagem']['tmp_name']);
                 $imagem_tipo = $_FILES['imagem']['type'];
             } else {
-                $error_message = "O arquivo deve ter no máximo 60MB.";
-                header('Location: index.html?erro=' . urlencode($error_message));
-                exit;
+                header('Location: index.html?erro='.urlencode("Arquivo deve ter no máximo 60MB.")); exit;
             }
         } else {
-            $error_message = "Tipo de arquivo não permitido. Apenas jpg, jpeg, png e gif são aceitos.";
-            header('Location: index.html?erro=' . urlencode($error_message));
-            exit;
+            header('Location: index.html?erro='.urlencode("Tipo não permitido. Use jpg, jpeg, png ou gif.")); exit;
         }
     }
-    
+
     try {
-        
-        $sql_check_imagem = "SHOW COLUMNS FROM manifestacoes LIKE 'imagem_blob'";
-        $result_imagem = $pdo->query($sql_check_imagem);
-        
-        if ($result_imagem->rowCount() == 0) {
-            $sql_alter_imagem = "ALTER TABLE manifestacoes ADD COLUMN imagem_blob LONGBLOB, ADD COLUMN imagem_tipo VARCHAR(100)";
-            $pdo->exec($sql_alter_imagem);
-        }
-        
-        
-        $sql_check_protocolo = "SHOW COLUMNS FROM manifestacoes LIKE 'protocolo'";
-        $result_protocolo = $pdo->query($sql_check_protocolo);
-        
-        if ($result_protocolo->rowCount() == 0) {
-            $sql_alter_protocolo = "ALTER TABLE manifestacoes ADD COLUMN protocolo VARCHAR(50)";
-            $pdo->exec($sql_alter_protocolo);
-        }
-        
-    
+        // Garante colunas
+        if ($pdo->query("SHOW COLUMNS FROM manifestacoes LIKE 'imagem_blob'")->rowCount() == 0)
+            $pdo->exec("ALTER TABLE manifestacoes ADD COLUMN imagem_blob LONGBLOB, ADD COLUMN imagem_tipo VARCHAR(100)");
+        if ($pdo->query("SHOW COLUMNS FROM manifestacoes LIKE 'protocolo'")->rowCount() == 0)
+            $pdo->exec("ALTER TABLE manifestacoes ADD COLUMN protocolo VARCHAR(50)");
+        if ($pdo->query("SHOW COLUMNS FROM manifestacoes LIKE 'ip_remetente'")->rowCount() == 0)
+            $pdo->exec("ALTER TABLE manifestacoes ADD COLUMN ip_remetente VARCHAR(50) DEFAULT NULL");
+
         $data_atual = date('Y-m-d H:i:s');
-        
-        $sql = "INSERT INTO manifestacoes (tipo_manifestacao, area_relacionada, mensagem, imagem_path, imagem_blob, imagem_tipo, anonimo, nome, email, data_criacao, data_atualizacao)
-                VALUES (:tipo_manifestacao, :area_relacionada, :mensagem, NULL, :imagem_blob, :imagem_tipo, :anonimo, :nome, :email, :data_criacao, :data_atualizacao)";
-        
+        $sql = "INSERT INTO manifestacoes (tipo_manifestacao, area_relacionada, mensagem, imagem_path, imagem_blob, imagem_tipo, anonimo, nome, email, ip_remetente, data_criacao, data_atualizacao)
+                VALUES (:tipo, :area, :mensagem, NULL, :img, :img_tipo, :anonimo, :nome, :email, :ip, :criacao, :atualizacao)";
         $stmt = $pdo->prepare($sql);
-        $stmt->bindParam(':tipo_manifestacao', $tipo_manifestacao);
-        $stmt->bindParam(':area_relacionada', $area_relacionada);
+        $stmt->bindParam(':tipo', $tipo_manifestacao);
+        $stmt->bindParam(':area', $area_relacionada);
         $stmt->bindParam(':mensagem', $mensagem);
-        $stmt->bindParam(':imagem_blob', $imagem_data, PDO::PARAM_LOB);
-        $stmt->bindParam(':imagem_tipo', $imagem_tipo);
+        $stmt->bindParam(':img', $imagem_data, PDO::PARAM_LOB);
+        $stmt->bindParam(':img_tipo', $imagem_tipo);
         $stmt->bindParam(':anonimo', $anonimo);
         $stmt->bindParam(':nome', $nome);
         $stmt->bindParam(':email', $email);
-        $stmt->bindParam(':data_criacao', $data_atual);
-        $stmt->bindParam(':data_atualizacao', $data_atual);
-        
+        $stmt->bindParam(':ip', $ip_remetente);
+        $stmt->bindParam(':criacao', $data_atual);
+        $stmt->bindParam(':atualizacao', $data_atual);
+
         if ($stmt->execute()) {
-            
-            $id_manifestacao = $pdo->lastInsertId();
-            
-            
-            $protocolo = date('Ymd') . '-' . str_pad($id_manifestacao, 4, '0', STR_PAD_LEFT) . '-' . substr(md5(uniqid(rand(), true)), 0, 6);
-            
-            
-            $sql_protocolo = "UPDATE manifestacoes SET protocolo = :protocolo WHERE id = :id";
-            $stmt_protocolo = $pdo->prepare($sql_protocolo);
-            $stmt_protocolo->bindParam(':protocolo', $protocolo);
-            $stmt_protocolo->bindParam(':id', $id_manifestacao);
-            $stmt_protocolo->execute();
-            
-           
-            header('Location: confirmacao.php?protocolo=' . urlencode($protocolo) . '&anonimo=' . $anonimo . '&email=' . urlencode($email));
+            $id = $pdo->lastInsertId();
+            $protocolo = date('Ymd').'-'.str_pad($id,4,'0',STR_PAD_LEFT).'-'.substr(md5(uniqid(rand(),true)),0,6);
+            $s = $pdo->prepare("UPDATE manifestacoes SET protocolo=:p WHERE id=:id");
+            $s->bindParam(':p', $protocolo); $s->bindParam(':id', $id); $s->execute();
+            header('Location: confirmacao.php?protocolo='.urlencode($protocolo).'&anonimo='.$anonimo.'&email='.urlencode($email));
         } else {
-            $error_message = "Erro ao enviar manifestação. Tente novamente.";
-            header('Location: index.html?erro=' . urlencode($error_message));
+            header('Location: index.html?erro='.urlencode("Erro ao enviar. Tente novamente."));
         }
     } catch (PDOException $e) {
-        $error_message = "Erro ao processar sua solicitação: " . $e->getMessage();
-        header('Location: index.html?erro=' . urlencode($error_message));
+        header('Location: index.html?erro='.urlencode("Erro: ".$e->getMessage()));
     }
-    
     exit;
 } else {
-    header('Location: index.html');
-    exit;
+    header('Location: index.html'); exit;
 }
